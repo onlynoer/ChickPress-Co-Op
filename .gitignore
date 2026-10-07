@@ -1,0 +1,6 @@
+#ignore build folder
+build
+.cache
+.vscode
+compile_flags.txt
+generated
