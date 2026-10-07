@@ -65,14 +65,3 @@ Jumping lets you avoid certain buttons if they are in your way and moving lets y
 navigate to your desiered button.
 
 Other useful keys include the Esc key, which is used to exit the game.
-
-## Community
-
-In case you need help, feel free to reach out using the following means:
-
-* **Email:** Can email me at: noesc.ri00@gmail.com to get in touch with me.
-
-## Grade Guess
-
-* **With GRADE GUESS EC:** 145
-* **Without GRADE Guess EC:** 120
